@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabSportsStore.Models
 {
-    public class Cart
+    public class Cart 
     {
         //   F i e l d s   &   P r o p e r t i e s
 
@@ -50,10 +50,14 @@ namespace LabSportsStore.Models
         {
             items.Clear();
         }
-
+        public virtual void RemoveItem(int productId)
+        {
+            items.RemoveAll(i => i.Product.ProductId == productId);
+        }
         public virtual void RemoveItem(Product product)
         {
-            items.RemoveAll(i => i.Product.ProductId == product.ProductId);
+            //items.RemoveAll(i => i.Product.ProductId == product.ProductId);
+            RemoveItem(product.ProductId);
         }
     }
 }

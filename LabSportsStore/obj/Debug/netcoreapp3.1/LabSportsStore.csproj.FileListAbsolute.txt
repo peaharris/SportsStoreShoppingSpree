@@ -138,3 +138,4 @@ C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razo
 C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.csproj.CoreCompileInputs.cache
 C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs

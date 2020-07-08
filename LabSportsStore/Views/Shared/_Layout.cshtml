@@ -6,12 +6,16 @@
     <title> SportsStore </title>
     <link href="~/lib/bootstrap/css/bootstrap.min.css"
           rel="stylesheet" />
+    <link href="~/lib/font-awesome/css/all.min.css" rel="stylesheet" />
     <title>@ViewBag.Title</title>
 </head>
 <body>
     <div class="navbar navbar-inverse bg-inverse"
          role="navigation">
         <a class="navbar-brand" href="#"> SPORTS STORE </a>
+        <div class="col-4 text-right">
+            @await Component.InvokeAsync("CartSummary")
+        </div>
     </div>
 
     <div class="row m-1 p-1">

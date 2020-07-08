@@ -33,16 +33,23 @@ namespace LabSportsStore
         {
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer
                     (configuration.GetConnectionString("DefaultConnection")));
+
             services.AddScoped<IProductRepository,EfProductRepository>();//when you ask for an interface give me the concrete class
+            services.AddScoped<ICartRepository, SessionCartRepository>();//when you ask for an interface give me the concrete class
+            
             services.AddControllersWithViews();
+            services.AddHttpContextAccessor();
             services.AddMvc();
             services.AddMemoryCache();
-            services.AddSession();
+            services.AddSession(); //default is 20 mins
+            //services.AddSession(options =>
+            //{
+            //    options.IdleTimeout = TimeSpan.FromSeconds(10);
+            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app,
-                              IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {

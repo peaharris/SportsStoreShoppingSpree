@@ -1,0 +1,140 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.csprojAssemblyReference.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.AssemblyInfoInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.AssemblyInfo.cs
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.MvcApplicationPartsAssemblyInfo.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.RazorAssemblyInfo.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.RazorAssemblyInfo.cs
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.TagHelpers.input.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.TagHelpers.output.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.RazorCoreGenerate.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.RazorTargetAssemblyInfo.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.RazorTargetAssemblyInfo.cs
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/LabSportsStore.deps.json
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/LabSportsStore.runtimeconfig.json
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/LabSportsStore.runtimeconfig.dev.json
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/LabSportsStore.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/LabSportsStore.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/LabSportsStore.Views.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/LabSportsStore.Views.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.Views.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/staticwebassets/LabSportsStore.StaticWebAssets.Manifest.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/staticwebassets/LabSportsStore.StaticWebAssets.xml
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.genruntimeconfig.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/LabSportsStore.csproj.CopyComplete
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/obj/Debug/netcoreapp3.1/Razor/Views/Product/Index.cshtml.g.cs
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/priscillaharris/Documents/MSSA/Technical Development/ISTA421/Ch8/LabSportsStore/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\LabSportsStore.exe
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\LabSportsStore.deps.json
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\LabSportsStore.runtimeconfig.json
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\LabSportsStore.runtimeconfig.dev.json
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\LabSportsStore.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\LabSportsStore.pdb
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\LabSportsStore.Views.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\LabSportsStore.Views.pdb
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.AssemblyInfo.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.RazorAssemblyInfo.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.RazorAssemblyInfo.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.TagHelpers.input.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.TagHelpers.output.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.RazorCoreGenerate.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.Views.pdb
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.csproj.CopyComplete
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\staticwebassets\LabSportsStore.StaticWebAssets.Manifest.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\staticwebassets\LabSportsStore.StaticWebAssets.xml
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.pdb
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.genruntimeconfig.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Product\Update.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.csprojAssemblyReference.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\obj\Debug\netcoreapp3.1\LabSportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wwstudent\Documents\ISTA421\LabSportsStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

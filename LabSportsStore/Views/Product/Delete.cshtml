@@ -1,0 +1,19 @@
+﻿@model Product
+
+@*
+    <h3> @Model.Name </h3>
+    <p> @Model.Description </p>
+    <h4> @Model.Price.ToString("c") </h4>
+    <h4> Category: @Model.Category </h4>
+*@
+
+@Html.Partial("ProductSummary", Model)
+
+<h1> Are You Sure? </h1>
+<form method="post">
+    <input type="hidden" asp-for="ProductId" />
+    <input type="submit" value="Delete" />
+    <button asp-controller="Product" asp-action="Index" formmethod="get">
+        Cancel
+    </button>
+</form>

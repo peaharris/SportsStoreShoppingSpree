@@ -1,0 +1,41 @@
+﻿@model Product
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> SportsStore </title>
+</head>
+<body>
+    <form asp-controller="Product" asp-action="Update" method="post"> <!--go to update method, use put for updates-->
+    <input type="hidden" asp-for="ProductId" />    
+    <table>
+            <tr>
+                <th> Name: </th>
+                <td>
+                    <input asp-for="Name" />
+                <td>
+            <tr>
+                <th> Description: </th>
+                <td> <input asp-for="Description" /> </td>
+            </tr>
+            <tr>
+                <th> Price: </th>
+                <td> <input asp-for="Price" /> </td>
+            </tr>
+            <tr>
+                <th> Category: </th>
+                <td> <input asp-for="Category" /> </td>
+            </tr>
+            <tr>
+                <th></th>
+                <td> 
+                    <!--<input type="submit" value="Update" asp-for-id="ProductId" /> -->
+                    <input type="submit" value="Update Product Information"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

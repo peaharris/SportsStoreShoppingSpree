@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> SportsStore </title>
+    <link href="~/lib/bootstrap/css/bootstrap.min.css"
+          rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div class="navbar navbar-inverse bg-inverse"
+         role="navigation">
+        <a class="navbar-brand" href="#"> SPORTS STORE </a>
+    </div>
+
+    <div class="row m-1 p-1">
+        <div id="categories" class="col-3">
+            <!--Uses 3/12 of the screen -->
+            @* @await is asynchronus  *@
+            @await Component.InvokeAsync("NavigationMenu") 
+        </div>
+
+        <div class="col-9"><!--Uses 9/12 of the screen, default is using 12 cols-->
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>

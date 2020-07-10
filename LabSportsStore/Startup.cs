@@ -36,7 +36,8 @@ namespace LabSportsStore
 
             services.AddScoped<IProductRepository,EfProductRepository>();//when you ask for an interface give me the concrete class
             services.AddScoped<ICartRepository, SessionCartRepository>();//when you ask for an interface give me the concrete class
-            
+            services.AddScoped<IOrderRepository, EfOrderRepository>();//when you ask for an interface give me the concrete class
+
             services.AddControllersWithViews();
             services.AddHttpContextAccessor();
             services.AddMvc();

@@ -6,7 +6,8 @@ namespace LabSportsStore.Models
     public class AppDbContext : DbContext
     {
         // F i e l d s  &  P r o p e r t i e s
-
+        public DbSet<Order> Orders { get; set; }
+        //public DbSet<CartItem> CartItems { get; set; } //optional because orders contains cartitems
         public DbSet<Product> Products { get; set; }  //getting to the database  DbSet<Dog> DbSet<VetVisit> DbSet<Walk>
 
         // C o n s t r u c t o r
